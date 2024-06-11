@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">Quantitative Analyst/Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crimmzx&label=Views&color=0e75b6&style=flat" alt="crimmzx" /> </p>
-
 - 🌱 I’m currently learning **financial modelling/HFT**
 
 - 📫 How to reach me **william.zhang[at]princeton[dot]edu**
