@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **financial modelling/HFT**
 
-- 📫 How to reach me **william.zhang[at]princeton[dot]edu**
+- 📫 How to reach me **william[dot]zhang[at]princeton[dot]edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
