@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">Quantitative Analyst/Software Engineer</h3>
-
-- 🌱 I’m currently learning **financial modelling/HFT**
 
 - 📫 How to reach me **william[dot]zhang[at]princeton[dot]edu**
 
